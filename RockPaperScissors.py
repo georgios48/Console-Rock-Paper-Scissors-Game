@@ -1,7 +1,7 @@
 import random
 
-# sled promqnata
-# oshte edna promqna
+# sled promqnata afasdfdasf
+# oshte edna promqna asdfasd
 
 choices = ["Rock", "Paper", "Scissors"]
 
