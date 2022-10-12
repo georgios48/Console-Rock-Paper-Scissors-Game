@@ -1,5 +1,7 @@
 import random
 
+# sled promqnata
+
 choices = ["Rock", "Paper", "Scissors"]
 
 player_choice = " "
